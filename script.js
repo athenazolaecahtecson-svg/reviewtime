@@ -5,12 +5,12 @@
 
 // ── ACCOUNTS ──────────────────────────────────
 const ACCOUNTS = {
-  "tinay":      "tinapay",
+  "tinay":     "tinapay",
   "khol":       "khulangot",
   "venice":     "babyv",
-  "deng":       "meakosisol",
-  "ekang":      "mesimaria",
-  "whanda joy": "mamabiceps"
+  "deng":      "mesisol",
+  "ekang":     "mesimaria",
+  "whandajoy": "whandajoybiceps"
 };
 
 const MAX_SETS  = 10;
